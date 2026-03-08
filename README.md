@@ -35,5 +35,4 @@ In our experiment, the raw sensor signals are pre-processed and sampled at 5Hz. 
 All of the training, validation, testing, and efficiency evaluation processes are integrated. You can easily execute the 5-fold cross-validation by running the provided shell script:
 
 ```bash
-cd 5zhz
 bash training_script.sh
