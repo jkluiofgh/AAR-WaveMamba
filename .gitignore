@@ -1,0 +1,17 @@
+# Python 字节码
+__pycache__/
+*.pyc
+
+# 数据集
+data/
+
+# 训练产物与日志
+results.csv
+output.txt
+*.pt
+*.pth
+sum/
+
+# IDE 配置
+.vscode/
+.idea/
